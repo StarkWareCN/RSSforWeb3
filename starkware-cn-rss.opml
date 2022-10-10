@@ -803,6 +803,8 @@
             xmlUrl="https://rsshub.app/twitter/user/GuthL" htmlUrl="https://twitter.com/GuthL"/>
       <outline text="Twitter @Avichal - Electric⚡️Capital" title="Twitter @Avichal - Electric⚡️Capital" type="rss" 
             xmlUrl="https://rsshub.app/twitter/user/avichal" htmlUrl="https://twitter.com/avichal"/>
+      <outline text="Twitter @turingou" title="Twitter @turingou" type="rss" 
+            xmlUrl="https://rsshub.app/twitter/user/turingou" htmlUrl="https://twitter.com/turingou"/>
   </outline>
   <outline title="Mirror" text="Mirror">
       <outline text="RabbitHole" title="RabbitHole" type="rss" 
