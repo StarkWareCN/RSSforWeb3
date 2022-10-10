@@ -7,19 +7,19 @@ We will build the most comprehensive stark RSS aggregation source, RSSforWeb3 is
 
 
 ## Which RSS aggregation to use?
-We strongly recommend Feedbro，fast & free RSS feed reader as a browser extension for Chrome, Vivaldi, Edge, Brave and Firefox for reading blogs, news or any RSS, Atom or RDF based feed.
+We strongly recommend Feedbro，fast & free RSS feed reader as a browser extension for Chrome, Vivaldi, Edge, Brave and Firefox for reading blogs, news or any RSS, Atom or RDF based feed. how to use Feedbro(role function), we recommend reading [here](HowToUseRule.md).
 
 ## 使用什么RSS订阅源？
-我们强烈建议采用Feedbro ，是一款免费的RSS 阅读器，作为 Chrome、Vivaldi、Edge、Brave 和 Firefox 的浏览器扩展，用于阅读博客、新闻或任何基于 RSS、Atom 或 RDF 的订阅源，支持自动过滤规则，可以根据关键词、作者、链接等内容进行过滤，支持自动获取全文。
+我们强烈建议采用Feedbro ，是一款免费的RSS 阅读器，作为 Chrome、Vivaldi、Edge、Brave 和 Firefox 的浏览器扩展，用于阅读博客、新闻或任何基于 RSS、Atom 或 RDF 的订阅源，支持自动过滤规则，可以根据关键词、作者、链接等内容进行过滤，支持自动获取全文。如何使用 Feedbro（规则功能），我们推荐阅读[这里](HowToUseRule.md)。
 
 ## How to use? Just 4 steps.
-1. Download the the latest starkware-cn-rss.opml file from this repo.
+1. [Download](https://github.com/StarkWareCN/RSSforWeb3/releases/latest/download/starkware-cn-rss.opml)  the the latest starkware-cn-rss.opml file from this repo.
 2. Choose your favorite RSS service or apps. 
 3. Import this OPML to your apps/services.
 4. Syncing and Done!
 
 ## 如何使用？ 只需4步。
-1. 从此 repo 下载最新的 starkware-cn-rss.opml 文件。
+1. 从此 repo [下载](https://github.com/StarkWareCN/RSSforWeb3/releases/latest/download/starkware-cn-rss.opml) 最新的 starkware-cn-rss.opml 文件。
 2. 选择你最喜欢的 RSS 程序。
 3. 将此 OPML 导入你的RSS程序。
 4. 同步并完成！
