@@ -6,6 +6,12 @@ We will build the most comprehensive stark RSS aggregation source, RSSforWeb3 is
 ![k4ac-mw6_400x400](https://user-images.githubusercontent.com/18651846/194753116-7600cfc4-82d7-4738-8dc1-fd0f9d442a52.jpeg)
 
 
+## Which RSS aggregation to use?
+We strongly recommend Feedbro，fast & free RSS feed reader as a browser extension for Chrome, Vivaldi, Edge, Brave and Firefox for reading blogs, news or any RSS, Atom or RDF based feed.
+
+## 使用什么RSS订阅源？
+我们强烈建议采用Feedbro ，是一款免费的RSS 阅读器，作为 Chrome、Vivaldi、Edge、Brave 和 Firefox 的浏览器扩展，用于阅读博客、新闻或任何基于 RSS、Atom 或 RDF 的订阅源，支持自动过滤规则，可以根据关键词、作者、链接等内容进行过滤，支持自动获取全文。
+
 ## How to use? Just 4 steps.
 1. Download the the latest starkware-cn-rss.opml file from this repo.
 2. Choose your favorite RSS service or apps. 
@@ -54,3 +60,7 @@ Medium, Github, Substack, Mirror都是原生支持RSS的.
 
 - Twitter: https://twitter.com/zkxprotocol
 例如： https://rsshub.app/twitter/user/zkxprotocol
+
+
+
+
